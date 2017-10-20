@@ -1,3 +1,3 @@
 # github-practice
 
-READ ME!
+Dont read me
